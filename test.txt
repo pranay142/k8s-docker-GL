@@ -1,1 +1,2 @@
 demo file for k8s git
+release 1.0
